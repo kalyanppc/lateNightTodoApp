@@ -8,3 +8,4 @@ this is a todo app.
 4. delete a existing todo.
 5. display completed todo's.
 6. set a todo as completed.
+7. display all the incompleted todo's.
